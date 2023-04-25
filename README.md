@@ -12,9 +12,10 @@ e->ee
 release/1.1.0
 release/1.1.1
 release/1.1.2
-ff
-gg
+f->ff
+g->gg
 release/1.2.0
 release/1.2.1
-hh
+h->hh
 release/1.3.0
+release/1.3.1
