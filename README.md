@@ -7,7 +7,7 @@ c->cc
 release/1.0.0
 release/1.0.1
 release/1.0.2
-dd
-ee
+d->dd
+e->ee
 release/1.1.0
 release/1.1.1
