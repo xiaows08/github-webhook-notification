@@ -12,3 +12,4 @@ release/1.1.0
 release/1.1.1
 f
 g
+release/1.2.0
